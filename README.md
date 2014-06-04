@@ -5,7 +5,7 @@ InDBFS - Overview
 
 Requirements and Decisions
 ==========================
-By means of the InDBFS I'd like to provide the FileSystem functionality in the non supportive environments. I'm targeting the IE10+ and latests of Chrome, Firefox, Opera. Chrome has a native support, but that one maybe disabled, as in the case of Incognito Mode, so the InDBFS should provide the same functionality in that case too.<br>
+By means of the InDBFS I'd like to provide the FileSystem functionality in the non supportive environments. I'm targeting the IE10+, Chrome, Firefox and Opera. Chrome has a native support, but that one maybe disabled, as in the case of Incognito Mode, so the InDBFS should provide the same functionality in that case too.<br>
 My goal is to use natively available facilities as much as possible. As an outcome of those I've made the following decisions:
 <ul>
   <li>
